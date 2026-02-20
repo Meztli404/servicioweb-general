@@ -1,0 +1,16 @@
+{
+  "name": "api-rest-basica",
+  "version": "1.0.0",
+  "description": "Una API REST básica con Node.js y Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npm install && npm start"
+  },
+  "keywords": ["api", "rest", "express"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
